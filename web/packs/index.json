@@ -1,7 +1,7 @@
 {
   "packs": [
-    "_2.0.json",
-    ".json"
+    ".json",
+    "_2.0.json"
   ],
   "homeserver_url": "https://messagesqq.ru"
 }
